@@ -4,6 +4,7 @@
 Josh Gardner, Learning Analytics and Blended Learning
 
 ##Description of Contents:
+**Attendance Plots:** Examples of plots prepared as part of an exploratory analysis of attendance data for the 2013-14 and 2014-15 school years. Data manipulation, summarization, and plotting were performed in R (using plyr/dplyr, lubridate, ggplot2, and gridExtra packages - code available upon request).
 
 **Sample_MAP_Test_Dashboard:** Samples of 5 different dashboards prepared to assist school leaders and staff in analyzing student performance on NWEA MAP Assessment. These dashboards were prepared in Tableau version 8.2, with significant data cleaning, reshaping, and other preparation in R (code available upon request).
 
